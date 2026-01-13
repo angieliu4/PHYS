@@ -1,2 +1,3 @@
 # PHYS
-A group Game Development repo 
+
+### *Dig, build, or destroy; bend the environment to your will in this pixelated shooter!
