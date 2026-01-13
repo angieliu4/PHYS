@@ -7,7 +7,7 @@
 
 ##### *GAME ELEMENTS*
 * Use objects to dig through the environment
-* Destroy buildings, walls, the ground
+* Destroy buildings, walls, ground
 * Physics based
 * Colorful graphics
 * Rubble from destroyed objects can damage enemies
