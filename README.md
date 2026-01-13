@@ -7,3 +7,9 @@
 * Physics based
 * Colorful graphics
 * Enemies
+
+##### *TEAM MEMBERS*
+* Angie Liu (@angieliu4)
+* Gabriel Farley (@Eggz-csm)
+* Ewan Carver (@EwanCarver)
+* Grace Perry (@GrassPerry)
