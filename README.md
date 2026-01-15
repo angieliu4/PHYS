@@ -12,6 +12,9 @@
 * Colorful graphics
 * Rubble from destroyed objects can damage enemies
 
+#### *POSSIBLE VISUAL STYLE MOCKUPS*
+![mockup 1](https://github.com/angieliu4/PHYS/blob/main/images/rainbow.png?raw=true)
+
 ##### *TEAM MEMBERS*
 * Angie Liu (@angieliu4)
 * Gabriel Farley (@Eggz-csm)
