@@ -6,11 +6,15 @@
 ![PHYSmock](https://github.com/angieliu4/PHYS/blob/main/images/physmock.png?raw=true)
 
 ##### *GAME ELEMENTS*
-* Use objects to dig through the environment
-* Destroy buildings, walls, ground
+* Movement-based platformer-shooter
+* Colorful cell-shaded environment and enemies
+* Some 2d elements such as your weapons arsenal
+* First person
+* Probably has a grappling hook
 * Physics based
-* Colorful graphics
-* Rubble from destroyed objects can damage enemies
+* Think Karlson but much more stylized and interesting
+
+
 
 #### *POSSIBLE VISUAL STYLE MOCKUPS*
 ![mockup 1](https://github.com/angieliu4/PHYS/blob/main/images/rainbow.png?raw=true)
