@@ -14,6 +14,10 @@
 * Physics based
 * Think Karlson but much more stylized and interesting
 
+##### *GAMELOOP*
+* Die many times while playing each level, improving more and more each time
+* Complete the level and move on to the next more difficult level
+* Unlock more weapons, enemies, and movement tech the further in the progression you are
 
 
 #### *POSSIBLE VISUAL STYLE MOCKUPS*
