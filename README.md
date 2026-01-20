@@ -25,6 +25,6 @@
 
 ##### *TEAM MEMBERS*
 * Angie Liu (@angieliu4) - works on basic code for the game
-* Gabriel Farley (@Eggz-csm) - Level design and brings code together
-* Ewan Carver (@EwanCarver) - Animation and character modeling
+* Gabriel Farley (@Eggz-csm) - level design and brings code together
+* Ewan Carver (@EwanCarver) - animation / character modeling, soundtrack
 * Grace Perry (@GrassPerry) - works on the code for the game loop
