@@ -24,7 +24,7 @@
 ![mockup 1](https://github.com/angieliu4/PHYS/blob/main/images/rainbow.png?raw=true)
 
 ##### *TEAM MEMBERS*
-* Angie Liu (@angieliu4)
-* Gabriel Farley (@Eggz-csm)
-* Ewan Carver (@EwanCarver)
-* Grace Perry (@GrassPerry)
+* Angie Liu (@angieliu4) - works on basic code for the game
+* Gabriel Farley (@Eggz-csm) - Level design and brings code together
+* Ewan Carver (@EwanCarver) - Animation and character modeling
+* Grace Perry (@GrassPerry) - works on the code for the game loop
