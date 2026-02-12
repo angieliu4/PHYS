@@ -40,3 +40,10 @@
 ##### *SCREENSHOT OF GAME IN ITS CURRENT STATE*
 
 ![screenshot](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/feb12.png?raw=true)
+
+##### *TO-DO*
+
+* ui / weapon assets
+* implement scrimbler
+* wizard projectile asset
+* implement wizard orb
