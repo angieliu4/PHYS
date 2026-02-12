@@ -28,3 +28,8 @@
 * Gabriel Farley (@Eggz-csm) - level design and brings code together
 * Ewan Carver (@EwanCarver) - animation / character modeling, soundtrack
 * Grace Perry (@GrassPerry) - works on the code for the game loop
+
+##### *ASSETS*
+![gary](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/grabbygary.gif?raw=true)
+![rainbo](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/rainbo.png?raw=true)
+![gnome](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/gnome.gif?raw=true)
