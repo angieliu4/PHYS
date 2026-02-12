@@ -31,5 +31,8 @@
 
 ##### *ASSETS*
 ![gary](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/grabbygary.gif?raw=true)
+- Made in piskel, animated billboarding enemy that flies around
 ![rainbo](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/rainbo.png?raw=true)
+- Static background used in game
 ![gnome](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/gnome.gif?raw=true)
+- Made in piskel, animated billboarding enemy that walks around and shoots projectiles
