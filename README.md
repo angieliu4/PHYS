@@ -22,6 +22,8 @@
 
 #### *POSSIBLE VISUAL STYLE MOCKUPS*
 ![mockup 1](https://github.com/angieliu4/PHYS/blob/main/images/rainbow.png?raw=true)
+![mockup 2](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/gun.gif?raw=true)
+
 
 ##### *TEAM MEMBERS*
 * Angie Liu (@angieliu4) - works on basic code for the game
