@@ -2,9 +2,6 @@
 
 ### *A fast-paced FPS inspired by ULTRAKILL and ENA: Dream BBQ - platform and shoot your way through levels full of mixed media enemies*
 
-##### *ROUGH MOCK-UP*
-![PHYSmock](https://github.com/angieliu4/PHYS/blob/main/images/physmock.png?raw=true)
-
 ##### *GAME ELEMENTS*
 * Movement-based platformer-shooter
 * Colorful environment and enemies
