@@ -7,17 +7,25 @@
 
 ##### *GAME ELEMENTS*
 * Movement-based platformer-shooter
-* Colorful cell-shaded environment and enemies
+* Colorful environment and enemies
 * Some 2d elements such as your weapons arsenal
 * First person
 * Probably has a grappling hook
 * Physics based
 * Think Karlson but much more stylized and interesting
+* Bullet-time ability
 
 ##### *GAMELOOP*
 * Die many times while playing each level, improving more and more each time
 * Complete the level and move on to the next more difficult level
 * Unlock more weapons, enemies, and movement tech the further in the progression you are
+
+##### *CONTROLS*
+* Mouse 1 - shoot
+* Mouse Wheel - switch weapons (number keys also work)
+* WASD - movement
+* Shift - dash
+* Space - jump
 
 
 #### *POSSIBLE VISUAL STYLE MOCKUPS*
