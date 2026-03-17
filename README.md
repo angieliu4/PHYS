@@ -2,6 +2,12 @@
 
 ### *A fast-paced FPS inspired by ULTRAKILL and ENA: Dream BBQ - platform and shoot your way through levels full of mixed media enemies*
 
+##### *TEAM MEMBERS*
+* Angie Liu (@angieliu4) - works on basic code for the game
+* Gabriel Farley (@Eggz-csm) - level design and brings code together
+* Ewan Carver (@EwanCarver) - animation / soundtrack
+* Grace Perry (@GrassPerry) - works on the code for the game loop
+
 ##### *GAME ELEMENTS*
 * Movement-based platformer-shooter
 * Colorful environment and enemies
@@ -25,16 +31,13 @@
 * Space - jump
 
 
-#### *POSSIBLE VISUAL STYLE MOCKUPS*
+##### *POSSIBLE VISUAL STYLE MOCKUP*
 ![mockup 1](https://github.com/angieliu4/PHYS/blob/main/images/rainbow.png?raw=true)
+
+
+##### *POSSIBLE HUD MOCKUP*
 ![interface mockup](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/gun.gif?raw=true)
 
-
-##### *TEAM MEMBERS*
-* Angie Liu (@angieliu4) - works on basic code for the game
-* Gabriel Farley (@Eggz-csm) - level design and brings code together
-* Ewan Carver (@EwanCarver) - animation / character modeling, soundtrack
-* Grace Perry (@GrassPerry) - works on the code for the game loop
 
 ##### *ASSETS*
 ![gary](https://github.com/angieliu4/PHYS/blob/main/Assets/Art/Sprites/grabbygary.gif?raw=true)
