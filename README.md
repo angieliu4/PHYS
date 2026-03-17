@@ -1,6 +1,6 @@
-# PHYS
+# DREAMSURF
 
-### *Dig, build, or destroy; bend the environment to your will in this pixelated shooter!*
+### *A fast-paced FPS inspired by ULTRAKILL and ENA: Dream BBQ - platform and shoot your way through levels full of mixed media enemies*
 
 ##### *ROUGH MOCK-UP*
 ![PHYSmock](https://github.com/angieliu4/PHYS/blob/main/images/physmock.png?raw=true)
