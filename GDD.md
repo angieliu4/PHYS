@@ -3,11 +3,13 @@
 ### Title
 DREAMSURF (working title)
 ### Concept
-Write a simple statement to describe what the player will do in your game. Briefly describe the goal(s) of the game - how players win the game. Describe what playing the game will be like in 1-2 paragraphs.
+* A fast-paced FPS inspired by ULTRAKILL and ENA: Dream BBQ - platform and shoot your way through levels full of mixed media enemies
+* You play as a bounty hunter racing through people's dreams to kill your target
 ### Targeted Aesthetics
-Identify the type of gameplay experience this will be for players. Use the game aesthetic types as described in the MDA Framework.
+* MDA Aesthetics: Fantasy, Challenge
 ### Game Flow
-Briefly describe how players will progress through the game. Use storyboards and/or descriptions to explain player choices and gameplay progression.
+* Progress through levels, getting instrutions / tutorial from a character on a radio on your HUD, as well as updates on your current objective, as well as possibly little quips on actions the player takes
+* Each level can be replayed for a better rating
 ### Player Controls
 Briefly describe how the player(s) will control the game objects or characters - keyboard, mouse, controller, touch, etc.
 ## Mechanics
