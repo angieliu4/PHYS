@@ -51,37 +51,40 @@ Briefly describe conditions for losing, winning, advancing or leveling-up, and c
 * Likely one boss per level at the end of the level, or similarly a particularly difficult wave of enemies
 
 ### Level Design
-If your game includes different levels, describe how players will advance to each level. If applicable, describe each of the following in a bulleted list.
-* Puzzles
-* Collectibles
-* Boss enemies
-* Game world hazards or obstacles
+* Reach the end of the level after fighting enemies and platforming to the exit where you likely will fight a boss to advance to the next level
 ## Game World
+
 ### Setting
-Briefly describe the game world.
+* Surreal dreamlike environments
+  
 ### Characters + Game Objects
-Briefly describe your game’s characters or objects. Use a bulleted list to identify multiple characters or objects. Be sure to include any NPCs (non-player characters) as needed.
+* Player character
+* Enemies
+* Animated character portrait at top of HUD for dialogue
+* Boss enemies (possibly with voice lines?)
 ### Art Style
-Briefly describe the visual style of your game in a bulleted list.
-* 2D or 3D
-* Pixelated, cartoon graphics, low-poly, or realistic environment and game objects
-* Color palettes
+* 2D stylized enemies (and collectibles?)
+* Pixelated
+
+
 ### Sounds + Music
-Briefly describe the sound effects and/or music you plan to use in your game.
+* Fast paced adaptive music based on if you're fighting enemies or not
+  
 ### Menus
-Briefly list or identify the menus your game will require. Some examples are listed below.
 * Start menu
-* Help screen
-* Game over screen
-* Inventory menu
+* Game over screen (restart)
+* Pause menu w/ settings
+* Level select
+
+  
 ### Heads-up Display (HUD)
-Briefly list or identify information the player may require to interact with during the game. Some examples are listed below.
 * Health bar
-* Lives indicator
-* Maps
+* Energy bar
 * Collected items
 * Timer
-* Score
+* Score / rank
+* Player Character portrait
+  
 ## Project Management
 ### Release Date
 List a possible release date for your game and milestones for the project (dates when specific parts of the project are due).
