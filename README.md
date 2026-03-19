@@ -26,6 +26,7 @@
 ##### *CONTROLS*
 * Mouse 1 - shoot
 * Mouse Wheel - switch weapons (number keys also work)
+* Mouse rotates camera / player
 * WASD - movement
 * Shift - dash
 * Space - jump
