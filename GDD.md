@@ -25,10 +25,14 @@ DREAMSURF (working title)
 ## Mechanics
 
 ### Rules
-Briefly describe the main goal or objective of the game. Describe, in more detail, the rules to play the game. You may want to use a numbered list to outline the game rules.
+* Stamina depletes after dashing twice mid-air
+* Different cooldown depending on weapon
+* Enemies drop health
+* Killing enemies in quick succesion fills energy meter, used to activate bullet-time ability
 
 ### Physics
-Briefly describe any game world physics including boundaries and physical constraints on game objects or characters.
+* Gravity applies to most entities, however some enemies are flying and are not affected by gravity
+* Falling off the world will take you down to 10 health and teleport you to the last platform you were standing on (unless your health is below 10, in which case you die and restart at the last checkpoint
 
 ### Movement
 Briefly describe the movement of game objects, including characters and obstacles.
