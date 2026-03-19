@@ -2,29 +2,49 @@
 
 ### Title
 DREAMSURF (working title)
+
 ### Concept
 * A fast-paced FPS inspired by ULTRAKILL and ENA: Dream BBQ - platform and shoot your way through levels full of mixed media enemies
 * You play as a bounty hunter racing through people's dreams to kill your target
+
 ### Targeted Aesthetics
 * MDA Aesthetics: Fantasy, Challenge
+
 ### Game Flow
 * Progress through levels, getting instrutions / tutorial from a character on a radio on your HUD, as well as updates on your current objective, as well as possibly little quips on actions the player takes
 * Each level can be replayed for a better rating
+  
 ### Player Controls
-Briefly describe how the player(s) will control the game objects or characters - keyboard, mouse, controller, touch, etc.
+* Mouse 1 - shoot
+* Mouse Wheel - switch weapons (number keys also work)
+* Mouse rotates camera / player
+* WASD - movement
+* Shift - dash
+* Space - jump
+  
 ## Mechanics
+
 ### Rules
 Briefly describe the main goal or objective of the game. Describe, in more detail, the rules to play the game. You may want to use a numbered list to outline the game rules.
+
 ### Physics
 Briefly describe any game world physics including boundaries and physical constraints on game objects or characters.
+
 ### Movement
 Briefly describe the movement of game objects, including characters and obstacles.
+
 ### Actions + Abilities
 Briefly describe the actions and abilities of game objects, including power-ups and collisions.
+
 ### States
 Briefly describe conditions for losing, winning, advancing or leveling-up, and character states, like invisible, running, sliding, etc.
+
 ### Core Game Loop
-Describe the main game loop needed to update game states and systems. Include any pseudocode, programming flowcharts, or code snippets if possible.
+* Die many times while playing each level, improving more and more each time
+* Complete the level and move on to the next more difficult level
+* Unlock more weapons, enemies, and movement tech the further in the progression you are
+* Likely one boss per level at the end of the level, or similarly a particularly difficult wave of enemies
+
 ### Level Design
 If your game includes different levels, describe how players will advance to each level. If applicable, describe each of the following in a bulleted list.
 * Puzzles
