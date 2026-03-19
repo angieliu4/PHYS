@@ -38,7 +38,8 @@ DREAMSURF (working title)
 * Most enemies have very simple pathfinding logic, however some will try to stay far away from you and shoot projectiles at you, although they are easy to catch up to because you are significantly faster
 
 ### Actions + Abilities
-Briefly describe the actions and abilities of game objects, including power-ups and collisions.
+* Grapple
+* Bullet-time ability
 
 ### States
 Briefly describe conditions for losing, winning, advancing or leveling-up, and character states, like invisible, running, sliding, etc.
