@@ -35,7 +35,7 @@ DREAMSURF (working title)
 * Falling off the world will take you down to 10 health and teleport you to the last platform you were standing on (unless your health is below 10, in which case you die and restart at the last checkpoint
 
 ### Movement
-Briefly describe the movement of game objects, including characters and obstacles.
+* Most enemies have very simple pathfinding logic, however some will try to stay far away from you and shoot projectiles at you, although they are easy to catch up to because you are significantly faster
 
 ### Actions + Abilities
 Briefly describe the actions and abilities of game objects, including power-ups and collisions.
