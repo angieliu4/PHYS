@@ -22,6 +22,7 @@
 * Die many times while playing each level, improving more and more each time
 * Complete the level and move on to the next more difficult level
 * Unlock more weapons, enemies, and movement tech the further in the progression you are
+* Likely one boss per level at the end of the level, or similarly a particularly difficult wave of enemies
 
 ##### *CONTROLS*
 * Mouse 1 - shoot
