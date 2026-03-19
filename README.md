@@ -17,6 +17,7 @@
 * Physics based
 * Think Karlson but much more stylized and interesting
 * Bullet-time ability
+* Characters (clients) will radio you to help guide you through the level (mostly tutorial)
 
 ##### *GAMELOOP*
 * Die many times while playing each level, improving more and more each time
